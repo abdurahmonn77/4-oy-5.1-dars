@@ -12,7 +12,6 @@
 //     for (let i = 0; i < arr.length; i++) {
 //         for (let j = i + 1; j < arr.length; j++) {
 //             if (arr[i].age === arr[j].age && arr[i].hobby === arr[j].hobby) {
-//                 // Push only unique matches that haven't been added already
 //                 if (!list.includes(arr[i])) {
 //                     list.push(arr[i]);
 //                 }
